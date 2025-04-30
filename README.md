@@ -39,4 +39,11 @@
 4. Run on an emulator or physical device (min SDK 24+).
 5. No need of any setup like to set a server, getting API keys.
 
+## Output of App
+ 
+**Home Screen
+![image](https://github.com/user-attachments/assets/89a86b06-f415-4100-9e4c-a1fe9bf44f9d)
+
+
+
 

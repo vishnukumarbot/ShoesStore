@@ -45,6 +45,17 @@
 
 ![image](https://github.com/user-attachments/assets/98716c49-732e-44b8-9742-a41ed625cf63)
 
+** Details Screen
+
+![image](https://github.com/user-attachments/assets/61f0f676-df44-4b1f-bc71-ce1552f6cb86)
+
+
+** Cart Screen
+
+
+![image](https://github.com/user-attachments/assets/d7a4952e-9da5-4a23-bffa-5b68ce24e228)
+
+
 
 
 

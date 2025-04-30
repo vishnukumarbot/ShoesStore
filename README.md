@@ -42,7 +42,10 @@
 ## Output of App
  
 **Home Screen
-![image](https://github.com/user-attachments/assets/89a86b06-f415-4100-9e4c-a1fe9bf44f9d)
+
+![image](https://github.com/user-attachments/assets/98716c49-732e-44b8-9742-a41ed625cf63)
+
+
 
 
 

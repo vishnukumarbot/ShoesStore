@@ -1,7 +1,7 @@
 # ShoeStore App
 
 **Developed by Vishnu Gelle**
-**Student ID:11906455**
+
 
 **A modern Android application built using Kotlin and MVC architecture for exploring, selecting, and purchasing shoes.**
 
